@@ -1,0 +1,7 @@
+cd 1093_os/
+mkdir temp1
+cd temp1/
+mkdir practical
+nano for-loop. c
+gcc for-loop. c
+./a.out
