@@ -54,3 +54,61 @@ int main()
 ./a.out
 
 
+Enter number of processes: 5 Enter Burst Time for Process 1:6
+
+Enter Burst Time for Process 2:4
+
+Enter Burst Time for Process 3:8
+
+Enter Burst Time for Process 4:2
+
+Enter Burst Time for Process 5: 1
+
+Process Burst Time
+
+Waiting Time
+
+Turnaround Time
+
+P1
+
+6
+
+6
+
+P2
+
+4
+
+6
+
+10
+
+P3
+
+8
+
+10
+
+18
+
+2
+
+2
+
+18
+
+P5
+
+1
+
+20
+
+20
+
+Average Waiting Time = 10.80
+
+21
+
+Average Turnaround Time = 15.00
+
