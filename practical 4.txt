@@ -35,3 +35,17 @@ int main()
 gcc processCreation.c
 
 ./a.out
+
+
+
+Parent Process:
+
+PID 5466
+
+Child PID = 5467
+
+Child Process:
+
+PID = 5467
+
+Parent PID = 475
